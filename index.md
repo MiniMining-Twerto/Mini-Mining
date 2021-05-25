@@ -1,12 +1,15 @@
 ## About the app:
+Mini Mining is a game that mixes adventures, strategies, and mining with the unique objective to go deeper and deeper and find what makes this little village so intriguing. 
 
-You can use the [editor on GitHub](https://github.com/MiniMining-Twerto/Mini-Mining/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Upgrade your stats, sell unique ores, and discover an exceptional world full of mysteries and hidden treasures. Try to find every mysterious object deeply buried in the ground and gather every Dig Skin available.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+If you liked Motherload or Mega Miner, Mini Mining is for you. It will revive the nostalgia of those old games in a pixel mobile version. 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Team behind the game:
+Léonard Pouliot: Game developer and programmer
+Marçal Balestero: Esthetic director and drawer
+Louis-Albert Pouliot: Designer and drawer
+Benjamin Astorga: Music
 
 ```markdown
 Syntax highlighted code block
