@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## About the app:
 
 You can use the [editor on GitHub](https://github.com/MiniMining-Twerto/Mini-Mining/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
