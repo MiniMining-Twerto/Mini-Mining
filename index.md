@@ -7,10 +7,13 @@ If you liked Motherload or Mega Miner, Mini Mining is for you. It will revive th
 
 ### Team behind the game:
 Léonard Pouliot: Game developer and programmer
+
 Marçal Balestero: Esthetic director and drawer
+
 Louis-Albert Pouliot: Designer and drawer
+
 Benjamin Astorga: Music
 
 ### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+If you have any ideas for the game or any trouble, please contact us:
+minimining.twerto@gmail.com
